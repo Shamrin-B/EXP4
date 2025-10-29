@@ -52,6 +52,10 @@ HALF WAVE AND FULL WAVE RECTIFIER:
 
 WAVEFORM:
 
+![WhatsApp Image 2025-10-29 at 09 18 23_ad423aad](https://github.com/user-attachments/assets/cb3e6faf-5ec1-4c29-b059-6fece4466d94)
+
+![WhatsApp Image 2025-10-29 at 09 24 36_f6c2d618](https://github.com/user-attachments/assets/e1dcbf2f-8fdc-44fa-8577-6664dc819a3a)
+
 
 RESULT:
 
